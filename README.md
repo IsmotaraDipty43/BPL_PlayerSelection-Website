@@ -1,4 +1,4 @@
-# pROJECT NAME: BPL
+# PROJECT NAME: BPL
 ## Project Description
 BPL is an interactive, fully responsive web application where users can browse, select, and purchase players with in-app credits. Featuring user-friendly functionality and a sleek design, the app allows users to claim free credits, manage their player selections, and view detailed player information—all within a seamless experience.
 
