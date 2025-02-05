@@ -16,6 +16,8 @@ BPL provides a streamlined interface for selecting and managing players, with ke
 - **Choose and Manage Players**: Users can click the "Choose Player" button to add players to their selected cart. When a player is chosen, the associated cost is deducted from the user's main balance. The "Selected" button then shows all selected players, allowing users to view their current lineup. Additionally, users can remove players from the cart, and the player's cost will be added back to the main balance, ensuring users can manage their credits effectively.
 
 - **Responsive Design**: Built with mobile-first responsiveness, ensuring an optimized experience across all devices.
+- 
+- **Buy Player Button**:Buy Player: Once users have selected players, they can click the "Buy Player" button to finalize their purchase. This action deducts the required credits from the user's balance, adds the player to their team, and updates the player's status.
 
 - **Dynamic Balance Management**: The app adjusts the user's balance in real-time as players are selected or removed.
 
