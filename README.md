@@ -45,7 +45,7 @@ Follow these steps to set up and run the project on your local machine using **V
    npm install  
 
 5️⃣ **Run the Development Server**  
-   - npm run dev   
+    npm run dev   
 
 ## 📦 Dependencies Used  
 Below are the key dependencies used in this project:  
