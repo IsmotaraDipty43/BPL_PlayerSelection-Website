@@ -31,7 +31,7 @@ BPL provides a streamlined interface for selecting and managing players, with ke
 Follow these steps to set up and run the project on your local machine using **VS Code**.
 
 1️⃣ **Clone the Repository**  
-   git clone https://github.com/your-username/book-a-tutor.git  
+   git clone https://github.com/IsmotaraDipty43/BPL_PlayerSelection-Website.git 
 
 2️⃣ **Navigate to the Project Folder**  
    cd BPL-project  
